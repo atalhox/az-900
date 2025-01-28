@@ -4,7 +4,7 @@ site_url: https://atalhox.github.io/az-900
 repo_url: https://github.com/atalhox/az-900
 
 # Configurações do servidor local
-dev_addr: "127.0.0.1:7777" # Endereço e porta para rodar localmente
+dev_addr: "127.0.0.1:8000" # Endereço e porta para rodar localmente
 
 # Plugins configurados
 plugins:
