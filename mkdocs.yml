@@ -108,7 +108,7 @@ theme:
 
     # - header.autohide # Esconde automaticamente o cabeçalho ao rolar a página
 
-    # - navigation.expand # Expande automaticamente a navegação lateral
+    - navigation.expand # Expande automaticamente a navegação lateral
     - navigation.footer # Adiciona um rodapé de navegação no site
     - navigation.indexes # Gera índices adicionais para navegação
     - navigation.instant # Carrega páginas instantaneamente ao clicar
@@ -117,7 +117,7 @@ theme:
     # - navigation.prune # Remove automaticamente itens antigos da navegação
     # - navigation.tabs.sticky # Mantém as abas fixas no topo ao rolar
     - navigation.path # Mostra o caminho de navegação atual
-    - navigation.sections # Barra lateral com seções
+    # - navigation.sections # Barra lateral com seções
     - navigation.tabs # Barra de navegação com abas
     - navigation.top # Navbar no topo
     - navigation.tracking # Adiciona rastreamento de navegação
